@@ -68,13 +68,9 @@ Em questão de linha de aprendizado, o javascript possui uma sintaxe simples e b
 
 ## Ecossistema
 
----
-
 Javascript possui um ecossistema bastante conhecido e em constante desenvolvimento e evolução tanto em âmbito de comunidade como em âmbito de documentação, possuindo uma característica primordial de ser a principal linguagem da maioria das empresas de tecnologia do mercado.
 
 ## Informações Adicionais
-
----
 
 ## Referências
 

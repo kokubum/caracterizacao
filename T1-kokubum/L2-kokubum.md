@@ -60,8 +60,6 @@ Apesar de Clojure ser uma linguagem menos utilizada, sua comunidade é bem ativa
 
 ## Informações Adicionais
 
----
-
 ## Referências
 
 - [Clojure - Trybe](https://blog.betrybe.com/linguagem-de-programacao/clojure-tudo-sobre/)
