@@ -14,8 +14,6 @@
 
 ## Apresentação e histórico
 
----
-
 O Clojure é um dialeto da linguagem de programação Lisp, o criador do Clojure foi Rich Hickey, antes de desenvolver a linguagem ele trabalhou na dotLisp, em um projeto parecido com base na plataforma .NET, e também desenvolveu a interface jfli que é uma espécie de ponte para usar recursos do Java para Lisp Comum, o FOIL que é uma interface de objetos externos para Lisp e Lisplets que também é uma interface amigável do Lisp para o Java Servlets.
 
 Todos esses projetos eram tentativas parar criar algum tipo de interoperabilidade entre Lisp e Java, mas Hickey gastou cerca de 2 anos e meio trabalhando na linguagem Clojure antes de lançá-la publicamente. Clojure é uma linguagem de programação de propósito geral com ênfase em programação funcional, ela é executa na (JVM) Máquina Virtual Java por padrão, mas também existem outras versões alternativas para outros ambientes de execução, como Clojure CLR, que compila o código para plataforma .NET e ClojureScript, que compila o código Clojure para o JavaScript, assim, como outros Lips, o Clojure trata o código como dados e tem um sistema de macros interligado.
@@ -23,8 +21,6 @@ Todos esses projetos eram tentativas parar criar algum tipo de interoperabilidad
 Hickey gastou muito tempo trabalhando exclusivamente na linguagem e sem nenhum tipo de financiamento externo, no final desse período ele enviou um e-mail anunciando a linguagem para alguns amigos na comunidade Common Lisp, esse processo de desenvolvimento é voltado para a comunidade e o desenvolvimento é gerenciado no site da comunidade Clojure. O processo de desenvolvimento atual é conduzido pela comunidade e supervisionado por Rich Hickey como seu ditador benevolente perpétuo (BDFL em inglês).
 
 ## Características da Linguagem
-
----
 
 - **Imutabilidade**
 
@@ -48,8 +44,6 @@ As First-Class functions são essenciais para o estilo de programação funciona
 
 ## Capacidades da Linguagem
 
----
-
 Uma das vantagens de Clojure é ser uma linguagem mais objetiva. Enquanto em Java é preciso escrever muito código para dar uma instrução ao objeto, Clojure é mais conciso.
 
 Outra vantagem está na hora de testar. Como programação funcional preza pelo princípio da imutabilidade, fica mais simples criar testes e garantir que elas funcionem conforme o esperado.
@@ -58,13 +52,9 @@ Além disso, por rodar em JVM, é possível utilizar todo o ecossistema criado p
 
 ## Produtividade do Desenvolvedor
 
----
-
 O clojure possui como case de referência um dos maiores bancos digitais que é o Nubank, que ajuda cada vez mais nesse crescimento e evolução da própria linguagem na comunidade de desenvolvedores. Além disso, tal fator serve como uma influência incrivel no aumento e adesão a linguagem cada vez mais rápido.
 
 ## Ecossistema
-
----
 
 Apesar de Clojure ser uma linguagem menos utilizada, sua comunidade é bem ativa – o que se traduz em maior e melhor suporte das pessoas e um ecossistema com ferramentas para automação de projetos, resolução de dependências, frameworks de propósitos gerais, entre outros.
 
